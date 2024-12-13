@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="close_search">Close Search</string>
+    <string name="news_headlines">News Headlines</string>
+    <string name="search_news">Search news</string>
+    <string name="no_favorites_yet">No favorites yet!</string>
+    <string name="favorite_articles">Favorite Articles</string>
+    <string name="favorite">Favorite</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862688675914",
+    "project_id": "newsapp-61c8b",
+    "storage_bucket": "newsapp-61c8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862688675914:android:ea26eff16cf702c7f1feb3",
+        "android_client_info": {
+          "package_name": "com.reachmobi.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7_gwLQtvwK5yicFiVKZMxlrhWV_Vbbdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
